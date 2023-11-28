@@ -1,0 +1,8 @@
+Hola, ¡gracias por leerme!
+
+
+Te explico la situación de este push que hago para conseguir parte de la nota si fuera posible. He seguido el tutorial a conciencia y he ido haciendo commits todo lo que me ha dado tiempo. Me hubiese gustado acabarlo, soy consciente y tengo la idea para terminarlo (faltaría último paso para añadir una datos a una ol mapeando el array history y asignando a acada enlace la jugada que le corresponda y volviendo a ese estado para mostrarla).
+Entiendo que el objetivo era terminarlo pero al menos te adjunto este fragmento para que quede constancia de el trabajo realizado, incompleto, pero realizado.
+
+Gracias y un saludo.
+Atentamente Antonio Seoane de Ois.
